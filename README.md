@@ -31,7 +31,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;T:`3`
 
-\* use # to specify assignment category
+*use `#` to specify assignment category*
 
 ### Earned 2 out of 3 in category 2 and 4 out of 4 in category 3
 
@@ -39,7 +39,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;T:`3    , 4`
 
-\* use , to separate different scores
+*use `,` to separate different scores*
 
 ## Note
 
