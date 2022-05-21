@@ -14,6 +14,7 @@
 3. Click predict again and the predicted grade show be displayed
 
 \* Categories numbers are in dropdown list
+
 \* You can add spaces to align the numbers
 
 ## Syntax
