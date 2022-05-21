@@ -5,7 +5,7 @@
 
 1. Install tampermonkey, https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
 2. Go to TM dashboard -> Utilities Tools -> Install from URL
-3. Type this URL: https://raw.githubusercontent.com/ChickenEgg234/tm-scripts/main/PredictGrade.js
+3. Paste this URL: `https://raw.githubusercontent.com/ChickenEgg234/tm-scripts/main/PredictGrade.js`
 
 ## How to use
 
