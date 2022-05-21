@@ -1,6 +1,12 @@
 
 # Predict Grade
 
+## Install
+
+1. Install tampermonkey, https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
+2. Go to TM dashboard -> Utilities Tools -> Install from URL
+3. Type this URL: https://raw.githubusercontent.com/ChickenEgg234/tm-scripts/main/PredictGrade.js
+
 ## How to use
 
 1. Click predict to get your current grade, 90% accurate due to some rounding problem or hidden grade
