@@ -17,7 +17,7 @@
 
 \* You can add spaces to align the numbers
 
-## Syntax
+## Example
 
 ### Earned 3.5 out of 5 in the first category
 
